@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e7c4e7b0-86ac-4c49-a88e-b243e7cef44d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/graphql/resolvers/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphql/resolvers/posts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphql/resolvers/users.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphql/typeDefs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/validators/validate-login-data.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/validators/validate-register-data.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1jgjrRzoMdWCwrNm5aL7t1cohST" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="copyright" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e7c4e7b0-86ac-4c49-a88e-b243e7cef44d" name="Default Changelist" comment="" />
+      <created>1604232826413</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604232826413</updated>
+      <workItem from="1604232827561" duration="38000" />
+      <workItem from="1604232961010" duration="10000" />
+      <workItem from="1604232979829" duration="596000" />
+      <workItem from="1604233587278" duration="4385000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="417" y="30" key="CommitChangelistDialog2" timestamp="1604238001261">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="417" y="30" key="CommitChangelistDialog2/0.23.1680.1027@0.23.1680.1027" timestamp="1604238001261" />
+    <state x="341" y="186" key="SettingsEditor" timestamp="1604234729271">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="341" y="186" key="SettingsEditor/0.23.1680.1027@0.23.1680.1027" timestamp="1604234729271" />
+    <state x="654" y="194" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1604237995411">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="654" y="194" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1604237995411" />
+    <state x="542" y="172" width="596" height="729" key="find.popup" timestamp="1604237136032">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="542" y="172" width="596" height="729" key="find.popup/0.23.1680.1027@0.23.1680.1027" timestamp="1604237136032" />
+    <state x="505" y="250" width="670" height="676" key="search.everywhere.popup" timestamp="1604235535979">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="505" y="250" width="670" height="676" key="search.everywhere.popup/0.23.1680.1027@0.23.1680.1027" timestamp="1604235535979" />
+  </component>
+</project>
